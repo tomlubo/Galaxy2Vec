@@ -1,0 +1,10 @@
+data/
+!/data/source/
+!/data/source/datasets.py
+*.pdf
+*.html
+.DS_Store
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
